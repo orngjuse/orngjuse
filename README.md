@@ -10,11 +10,6 @@
 - ☁️ Ask me about the weather or your fav tech-stack
 </div>
 
-### 🥠 let’s be hermanos!
-
-<a href="https://pageo.me/ojus" target="blank"><img alt="image" src="https://github.com/user-attachments/assets/b36da310-3000-49c3-8ae2-7f256a021fc8" />
-</a>&nbsp;
-
 <br />
 <div>
 <img src="https://github.com/user-attachments/assets/00cebd73-914c-4ce4-b2e1-95cede15bc37" alt="Coding Mario" width="350" /> 
